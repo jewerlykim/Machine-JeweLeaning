@@ -1,0 +1,11 @@
+Chicago_Crimes_2001_to_2004.csv
+Chicago_Crimes_2005_to_2007.csv
+Chicago_Crimes_2008_to_2011.csv
+Chicago_Crimes_2012_to_2017.csv
+traffic-signs-data/*
+traffic-signs-data/test.p
+traffic-signs-data/train.p
+traffic-signs-data/valid.p
+test.p
+train.p
+valid.p
